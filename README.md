@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Matías Gabriel Blanco Toledo</h1>
 <h3 align="center">Java fullstack developer</h3>
 
-- Actualmente estoy estudiando: **JavaScript y Angular**
+- Actualmente estoy estudiando: **Angular**
 
 - Mis proyectos están disponibles en mi Github: [https://github.com/MatiasGBT?tab=repositories](https://github.com/MatiasGBT?tab=repositories)
 
