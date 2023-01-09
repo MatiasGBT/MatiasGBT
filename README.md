@@ -1,17 +1,45 @@
-<h1 align="center">Hola, soy Matías Gabriel Blanco Toledo</h1>
-<h3 align="center">Java fullstack developer</h3>
+![banner](https://i.imgur.com/YnM4BY8.jpg)
 
-- Actualmente estoy estudiando: **Angular**
+___
 
-- Mis proyectos están disponibles en mi Github: [https://github.com/MatiasGBT?tab=repositories](https://github.com/MatiasGBT?tab=repositories)
+![about](https://i.imgur.com/D1OrCWE.jpg)
 
+Hello! I'm an Argentinean systems student specialized in Java with Spring Boot and Angular. In my free time I like to study new languages and technologies as well as building personal practice projects, such as [Social App](https://github.com/MatiasGBT/SocialApp)
+- I'm currently working on **my portfolio**
+- I'm currently studying **Microservices**
+
+___
+
+![contact](https://i.imgur.com/CmhqdSn.jpg)
+
+- LinkedIn: [Matías Blanco Toledo](https://www.linkedin.com/in/mat%C3%ADas-blanco-toledo-4b784a223)
 - Email: **blancotoledomatiasgabriel@gmail.com**
+- Hackerrank: [Matías Gabriel Blanco Toledo](https://www.hackerrank.com/blancotoledomat1?hr_r=1)
 
-<h3 align="left">Conecta conmigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/matías-blanco-toledo-4b784a223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matías-blanco-toledo-4b784a223" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/blancotoledomat1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="blancotoledomat1" height="30" width="40" /></a>
-</p>
+___
 
-<h3 align="left">Lenguajes, tecnologías y herramientas:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+![technologies](https://i.imgur.com/FkbvywD.jpg)
+
+Backend technologies:
+- Java
+- Spring & Spring Boot
+- PHP
+
+Frontend technologies:
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- Angular
+- Bootstrap
+
+Databases:
+- SQL
+- MySQL
+
+Tools:
+- Git & GitHub
+- Postman
+- Docker
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matiasgbt&show_icons=true&locale=en&layout=compact&&bg_color=DEG,FF416C,FF4B2B&title_color=FFFFFF&text_color=FFFFFF&border_color=161b22" alt="matiasgbt" /></p>
