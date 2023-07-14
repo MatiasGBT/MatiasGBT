@@ -4,16 +4,17 @@ ___
 
 ![about](https://i.imgur.com/D1OrCWE.jpg)
 
-Hello! I'm an Argentinean systems student specialized in Java with Spring Boot and Angular. In my free time I like to study new languages and technologies as well as building personal practice projects, such as [Social App](https://github.com/MatiasGBT/SocialApp)
-- I'm currently working on **my portfolio**
+Hello! I'm an Argentinean systems student specialized in Java with Spring Boot and Angular. In my free time I like to study new languages and technologies as well as building personal practice projects, such as [Turismo Argentina](https://github.com/MatiasGBT/TurismoArgentina2)
+- I'm currently working on **Social App remastered**
 - I'm currently studying **Microservices**
 
 ___
 
 ![contact](https://i.imgur.com/CmhqdSn.jpg)
 
-- LinkedIn: [Matías Blanco Toledo](https://www.linkedin.com/in/mat%C3%ADas-blanco-toledo-4b784a223)
-- Email: **blancotoledomatiasgabriel@gmail.com**
+- Portfolio: [Matías Gabriel Blanco Toledo](https://matiasgbt.netlify.app/)
+- LinkedIn: [Matías Blanco Toledo](https://www.linkedin.com/in/matiasgbt/)
+- Email: [blancotoledomatiasgabriel@gmail.com](blancotoledomatiasgabriel@gmail.com)
 - Hackerrank: [Matías Gabriel Blanco Toledo](https://www.hackerrank.com/blancotoledomat1?hr_r=1)
 
 ___
@@ -36,6 +37,7 @@ Frontend technologies:
 Databases:
 - SQL
 - MySQL
+- PostgreSQL
 
 Tools:
 - Git & GitHub
