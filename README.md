@@ -14,7 +14,7 @@ ___
 
 - Portfolio: [Matías Gabriel Blanco Toledo](https://matiasgbt.netlify.app/)
 - LinkedIn: [Matías Blanco Toledo](https://www.linkedin.com/in/matiasgbt/)
-- Email: [blancotoledomatiasgabriel@gmail.com](blancotoledomatiasgabriel@gmail.com)
+- Email: [blancotoledomatiasgabriel@gmail.com](mailto:blancotoledomatiasgabriel@gmail.com)
 - Hackerrank: [Matías Gabriel Blanco Toledo](https://www.hackerrank.com/blancotoledomat1?hr_r=1)
 
 ___
